@@ -1,0 +1,20 @@
+
+body{
+    background: rgb(178, 231, 224);
+    max-width: max-content;
+    margin: auto;
+    
+}
+.h1,.p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.sub{
+     background-color: rgb(255, 17, 0);
+     
+}
+.soma{
+    background-color: green;
+}
+
